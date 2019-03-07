@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs/InterestsCalculator/v15
+/InterestsCalculator/obj
+/Tests/obj
